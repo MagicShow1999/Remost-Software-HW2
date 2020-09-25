@@ -1,2 +1,1 @@
-Misson Statement of Amazon: To continually raise the bar of the customer experience by using the internet and machine learning to help consumers find, get recommandations and buy anything, and empower businesses and content creators to maximize their success by providing AWS services. We aim to be Earth's most customer centric company.
-
+Misson Statement of Amazon: This text is used to create some merge conflicts
